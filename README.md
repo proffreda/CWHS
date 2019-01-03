@@ -6,4 +6,4 @@ Cincinnati Waldorf High School Repository for Websites
 
 
 # Develop the Web
-[girldevelopit curriculum] (https://github.com/girldevelopit/gdi-featured-html-css-intro
+[girldevelopit curriculum] (https://github.com/girldevelopit/gdi-featured-html-css-intro)
