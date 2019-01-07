@@ -1,7 +1,7 @@
 # CWHS
 ## Cincinnati Waldorf High School Computer Science Repository 
 
-![CWHS-img](CWHS-pic.jpg)
+![CWHS-imgage](CWHS-pic.png)
 
 [xkcd: Password Strength ](http://xkcd.com/936)
 
